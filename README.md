@@ -8,14 +8,13 @@
 <br>
 <br>
   
-  
 ### 📜 THM-Certifications
 
 #### 🧠 Pre-Security
 
 <!-- [![Visualizza il certificato](https://github.com/francesco-rinald1/My-Certification-Journey/blob/main/THM-Certificates/THM-PreSecurity.png)](https://github.com/francesco-rinald1/My-Certification-Journey/blob/main/THM-Certificates/THM-PreSecurity.pdf) -->
 
-<a href="https://github.com/francesco-rinald1/My-Certification-Journey/blob/main/THM-Certificates/THM-PreSecurity.pdf">
+<a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-VSPWI1JDVU.pdf">
   <img src="https://github.com/francesco-rinald1/My-Certification-Journey/blob/main/THM-Certificates/THM-PreSecurity.png" alt="Certificato Pre-Security" width="400"/>
 </a>
 
