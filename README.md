@@ -1,20 +1,56 @@
-## 🛡️ TryHackMe Badge
-
-<!-- <div align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/0xFr3nk.png" alt="TryHackMe Badge di 0xFr3nk" />
-</div> -->
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/0xFr3nk.png" alt="TryHackMe Badge di 0xFr3nk" />
-<br>
-<br>
+---
+<div align="center">
   
-### 📜 THM-Certifications
+  ## 🛡️ TryHackMe Badge
+  
+  <a href="https://tryhackme-badges.s3.amazonaws.com/0xFr3nk.png">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/0xFr3nk.png" alt="TryHackMe Badge di 0xFr3nk" style="border: 0;" />
+  </a>
+</div>
 
-#### 🧠 Pre-Security
+---
+<div align="center">
 
-<!-- [![Visualizza il certificato](https://github.com/francesco-rinald1/My-Certification-Journey/blob/main/THM-Certificates/THM-PreSecurity.png)](https://github.com/francesco-rinald1/My-Certification-Journey/blob/main/THM-Certificates/THM-PreSecurity.pdf) -->
+  ## 🏅 THM Room Badges
 
-<a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-VSPWI1JDVU.pdf">
-  <img src="https://github.com/francesco-rinald1/My-Certification-Journey/blob/main/THM-Certificates/THM-PreSecurity.png" alt="Certificato Pre-Security" width="400"/>
-</a>
+</div>
 
+<p align="center">
+  <a href="https://assets.tryhackme.com/room-badges/edf574a9fc2719ecf3abfafa5fb53d89.png">
+    <img src="https://assets.tryhackme.com/img/badges/networkfundamentals.svg" alt="Badge Networking Nerd" width="40" style="margin: 10px; border: 0;"/>
+  </a>
+  
+  <a href="https://assets.tryhackme.com/room-badges/73c23cf1c9ecd8277cae9256b3d0a7ec.png">
+    <img src="https://assets.tryhackme.com/img/badges/webbed.svg" alt="Badge Webbed" width="40" style="margin: 10px; border: 0;"/>
+  </a>
+
+  <a href="https://assets.tryhackme.com/room-badges/bcde64f41e425a4ffc15f6cab4c5b7ad.png">
+    <img src="https://assets.tryhackme.com/img/badges/howthewebworks.svg" alt="Badge World Wide Web" width="40" style="margin: 10px; border: 0;"/>
+  </a>
+
+  <a href="https://assets.tryhackme.com/room-badges/e9a1f8442f282ea6ca86ead210150c62.png">
+    <img src="https://assets.tryhackme.com/img/badges/linux.svg" alt="Badge cat linux.txt" width="40" style="margin: 10px; border: 0;"/>
+  </a>
+
+  <a href="https://assets.tryhackme.com/room-badges/13459cada1bfb30e0ccf9051a7a745e3.png">
+    <img src="https://assets.tryhackme.com/img/badges/streak7.svg" alt="Badge 7 Day Streak" width="40" style="margin: 10px; border: 0;"/>
+  </a>
+
+  <a href="https://assets.tryhackme.com/room-badges/37d42beb92697a0ba87baea699f98005.png">
+    <img src="https://assets.tryhackme.com/img/badges/metasploit.svg" alt="Badge Metasploitable" width="40" style="margin: 10px; border: 0;"/>
+  </a>
+</p>
+
+---
+
+## 📜 THM Certifications
+
+### 🧠 Pre-Security
+
+<p align="left">
+  <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-VSPWI1JDVU.pdf">
+    <img src="https://github.com/francesco-rinald1/My-Certification-Journey/blob/main/THM-Certificates/THM-PreSecurity.png" alt="Certificato Pre-Security" width="300" style="margin: 10px; border: 0;"/>
+  </a>
+</p>
+
+---
