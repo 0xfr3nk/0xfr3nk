@@ -39,6 +39,10 @@
   <a href="https://assets.tryhackme.com/room-badges/37d42beb92697a0ba87baea699f98005.png">
     <img src="https://assets.tryhackme.com/img/badges/metasploit.svg" alt="Badge Metasploitable" width="40" style="margin: 10px; border: 0;"/>
   </a>
+
+  <a href="https://assets.tryhackme.com/room-badges/98c2ad830d9f2ff975712894746cd4b5.png">
+    <img src="https://assets.tryhackme.com/img/badges/blue.svg" alt="Badge Blue" width="40" style="margin: 10px; border: 0;"/>
+  </a>
 </p>
 
 ---
