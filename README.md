@@ -46,7 +46,7 @@
 </p>
 
 ---
-
+<!--
 ## 📜 THM Certifications
 
 ### 🧠 Pre-Security
@@ -58,3 +58,4 @@
 </p>
 
 ---
+-->
