@@ -4,7 +4,7 @@
   ## 🛡️ TryHackMe Badge
   
   <a href="https://tryhackme-badges.s3.amazonaws.com/0xFr3nk.png">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/0xFr3nk.png" alt="TryHackMe Badge di 0xFr3nk" style="border: 0;" />
+    <img src="https://tryhackme-badges.s3.amazonaws.com/0xFr3nk.png?v=1" alt="TryHackMe Badge di 0xFr3nk" style="border: 0;" />
   </a>
 </div>
 
