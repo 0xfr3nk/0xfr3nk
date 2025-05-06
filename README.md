@@ -15,7 +15,7 @@
 
 </div>
 
-<p align="center">
+<div align="center">
   <a href="https://assets.tryhackme.com/room-badges/edf574a9fc2719ecf3abfafa5fb53d89.png">
     <img src="https://assets.tryhackme.com/img/badges/networkfundamentals.svg" alt="Badge Networking Nerd" width="40" style="margin: 10px; border: 0;"/>
   </a>
@@ -37,15 +37,25 @@
   </a>
 
   <a href="https://assets.tryhackme.com/room-badges/37d42beb92697a0ba87baea699f98005.png">
-    <img src="https://assets.tryhackme.com/img/badges/metasploit.svg" alt="Badge Metasploitable" width="40" style="margin: 10px; border: 0;"/>
+    <img src="https://assets.tryhackme.com/img/badges/metasploit.svg" alt="Badge Metasploitable" width="40" style="margin: 10px;  border: 0; ""/>
   </a>
 
   <a href="https://assets.tryhackme.com/room-badges/98c2ad830d9f2ff975712894746cd4b5.png">
     <img src="https://assets.tryhackme.com/img/badges/blue.svg" alt="Badge Blue" width="40" style="margin: 10px; border: 0;"/>
   </a>
-</p>
+</div>
 
 ---
+<div align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=0xfr3nk&show_icons=true&title_color=ff6e96&icon_color=79dafa&text_color=f8f8f2&bg_color=282a36" />
+</a>
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xfr3nk&show_icons=true&title_color=ff6e96&icon_color=79dafa&text_color=f8f8f2&bg_color=282a36&layout=compact&langs_count=8&card_width=320" />
+</a>
+</div>
+
 <!--
 ## 📜 THM Certifications
 
