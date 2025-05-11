@@ -4,7 +4,7 @@
   ## 🛡️ TryHackMe Badge
   
   <a href="https://tryhackme-badges.s3.amazonaws.com/0xFr3nk.png">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/0xFr3nk.png?v=3" alt="TryHackMe Badge di 0xFr3nk" style="border: 0;" />
+    <img src="https://tryhackme-badges.s3.amazonaws.com/0xFr3nk.png?v=5" alt="TryHackMe Badge di 0xFr3nk" style="border: 0;" />
   </a>
 </div>
 
@@ -42,6 +42,10 @@
 
   <a href="https://assets.tryhackme.com/room-badges/98c2ad830d9f2ff975712894746cd4b5.png">
     <img src="https://assets.tryhackme.com/img/badges/blue.svg" alt="Badge Blue" width="40" style="margin: 10px; border: 0;"/>
+  </a>
+
+<a href="https://assets.tryhackme.com/room-badges/68a876d5d069f106cc625830d03cba57.png">
+    <img src="https://assets.tryhackme.com/img/badges/owasptop10.svg" alt="Badge Blue" width="40" style="margin: 10px; border: 0;"/>
   </a>
 </div>
 
