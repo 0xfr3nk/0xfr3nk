@@ -4,7 +4,7 @@
   ## 🛡️ TryHackMe Badge
   
   <a href="https://tryhackme-badges.s3.amazonaws.com/0xFr3nk.png">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/0xFr3nk.png?v=5" alt="TryHackMe Badge di 0xFr3nk" style="border: 0;" />
+    <img src="https://tryhackme-badges.s3.amazonaws.com/0xFr3nk.png?v=6" alt="TryHackMe Badge di 0xFr3nk" style="border: 0;" />
   </a>
 </div>
 
@@ -45,8 +45,13 @@
   </a>
 
 <a href="https://assets.tryhackme.com/room-badges/68a876d5d069f106cc625830d03cba57.png">
-    <img src="https://assets.tryhackme.com/img/badges/owasptop10.svg" alt="Badge Blue" width="40" style="margin: 10px; border: 0;"/>
+    <img src="https://assets.tryhackme.com/img/badges/owasptop10.svg" alt="Badge OWASP Top 10" width="40" style="margin: 10px; border: 0;"/>
   </a>
+
+<a href="https://assets.tryhackme.com/room-badges/a419313ae4a37cfd5faa10db4bb3c4d2.png">
+    <img src="https://assets.tryhackme.com/img/badges/swordapprentice.svg" alt="Badge SQLMAP" width="40" style="margin: 10px; border: 0;"/>
+  </a>
+
 </div>
 
 ---
