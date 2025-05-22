@@ -1,4 +1,3 @@
----
 <div align="center">
   
   ## 🛡️ TryHackMe Badge
@@ -13,7 +12,6 @@
 <div align="center">
 
   ## 🏅 THM Certificates
-
 <table align="center">
   <tr>
     <td align="center">
@@ -80,8 +78,11 @@
   </tr>
 </table>
 
+<!--
+https://github.com/anuraghazra/github-readme-stats, https://github.com/anuraghazra/convoychat 
+-->
+<!--
 ---
-<!-- https://github.com/anuraghazra/github-readme-stats, https://github.com/anuraghazra/convoychat --> 
 <div align="center">
 <a href="https://github.com/0xfr3nk/0xfr3nk">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=0xfr3nk&show_icons=true&title_color=ff6e96&icon_color=79dafa&text_color=f8f8f2&bg_color=282a36" />
@@ -91,17 +92,4 @@
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xfr3nk&show_icons=true&title_color=ff6e96&icon_color=79dafa&text_color=f8f8f2&bg_color=282a36&layout=compact&langs_count=8&card_width=320" />
 </a>
 </div>
-
-<!--
-## 📜 THM Certifications
-
-### 🧠 Pre-Security
-
-<p align="left">
-  <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-VSPWI1JDVU.pdf">
-    <img src="https://github.com/francesco-rinald1/My-Certification-Journey/blob/main/THM-Certificates/THM-PreSecurity.png" alt="Certificato Pre-Security" width="300" style="margin: 10px; border: 0;"/>
-  </a>
-</p>
-
----
 -->
