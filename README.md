@@ -18,6 +18,10 @@
       <img src="https://github.com/0xfr3nk/0xfr3nk/blob/main/THM/Pre-Security.png" width="400"/><br/>
       <strong>Pre Security</strong><br/>
     </td>
+    <td align="center">
+      <img src="https://github.com/0xfr3nk/0xfr3nk/blob/main/THM/Cyber-Security-101.png" width="400"/><br/>
+      <strong>Cyber Security 101</strong><br/>
+    </td>
 </table>
 
 ---
@@ -52,13 +56,13 @@
       <strong>7 Day Streak</strong><br/>
       <span style="font-size: 12px;">Achieving a 7 day hacking streak</span>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="https://assets.tryhackme.com/img/badges/metasploit.svg" width="100"/><br/>
       <strong>Metasploitable</strong><br/>
       <span style="font-size: 12px;">Contains the knowledge to use Metasploit</span>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <img src="https://assets.tryhackme.com/img/badges/blue.svg" width="100"/><br/>
       <strong>Blue</strong><br/>
@@ -78,6 +82,11 @@
       <img src="https://assets.tryhackme.com/img/badges/shieldapprentice.svg" width="100"/><br/>
       <strong>Shield Apprentice</strong><br/>
       <span style="font-size: 12px;">Completing the FlareVM room</span>
+    </td>
+    <td align="center">
+      <img src="https://assets.tryhackme.com/img/badges/careerready.svg" width="100"/><br/>
+      <strong>Cyber Ready</strong><br/>
+      <span style="font-size: 12px;">Understanding impact of training on teams</span>
     </td>
   </tr>
 </table>
