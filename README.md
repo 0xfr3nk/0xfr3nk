@@ -60,6 +60,9 @@
         <span style="font-size: 12px;">Being competent in Linux</span>
       </div>
     </td>
+  </tr>
+
+  <tr>
     <td align="center">
       <div style="width: 200px;">
         <img src="https://assets.tryhackme.com/img/badges/streak7.svg" width="100"/><br/>
@@ -67,8 +70,6 @@
         <span style="font-size: 12px;">Achieving a 7 day hacking streak</span>
       </div>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <div style="width: 200px;">
         <img src="https://assets.tryhackme.com/img/badges/metasploit.svg" width="100"/><br/>
@@ -90,6 +91,9 @@
         <span style="font-size: 12px;">Understanding every OWASP vulnerability</span>
       </div>
     </td>
+  </tr>
+
+  <tr>
     <td align="center">
       <div style="width: 200px;">
         <img src="https://assets.tryhackme.com/img/badges/swordapprentice.svg" width="100"/><br/>
@@ -104,17 +108,17 @@
         <span style="font-size: 12px;">Completing the FlareVM room</span>
       </div>
     </td>
-  </tr>
-  <tr>
     <td align="center">
-      <div style="width: 200;">
+      <div style="width: 200px;">
         <img src="https://assets.tryhackme.com/img/badges/careerready.svg" width="100"/><br/>
         <strong>Cyber Ready</strong><br/>
         <span style="font-size: 12px;">Understanding impact of training on teams</span>
       </div>
     </td>
+    <td></td>
   </tr>
 </table>
+
 
 <!--
 https://github.com/anuraghazra/github-readme-stats, https://github.com/anuraghazra/convoychat 
