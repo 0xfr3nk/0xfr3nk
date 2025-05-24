@@ -3,7 +3,7 @@
   ## 🛡️ TryHackMe Badge
   
   <a href="https://tryhackme.com/p/0xFr3nk">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/0xFr3nk.png?v=9" alt="TryHackMe Badge di 0xFr3nk" style="border: 0;" />
+    <img src="https://tryhackme-badges.s3.amazonaws.com/0xFr3nk.png?v=10" alt="TryHackMe Badge di 0xFr3nk" style="border: 0;" />
   </a>
 </div>
 
@@ -30,51 +30,55 @@
     <td align="center">
       <img src="https://assets.tryhackme.com/img/badges/networkfundamentals.svg" width="100"/><br/>
       <strong>Networking Nerd</strong><br/>
-      <span style="font-size: 12px;">Understanding network fundamentals</span>
+      <span style="font-size: 12px;">Completing the 'Network Fundamentals' module</span>
     </td>
     <td align="center">
       <img src="https://assets.tryhackme.com/img/badges/webbed.svg" width="100"/><br/>
       <strong>Webbed</strong><br/>
-      <span style="font-size: 12px;">Web hacking basics</span>
+      <span style="font-size: 12px;">Understands how the world wide web works</span>
     </td>
     <td align="center">
       <img src="https://assets.tryhackme.com/img/badges/howthewebworks.svg" width="100"/><br/>
       <strong>World Wide Web</strong><br/>
-      <span style="font-size: 12px;">How the web works</span>
+      <span style="font-size: 12px;">Completing the 'How The Web Works' module</span>
     </td>
     <td align="center">
       <img src="https://assets.tryhackme.com/img/badges/linux.svg" width="100"/><br/>
       <strong>cat linux.txt</strong><br/>
-      <span style="font-size: 12px;">Completing Linux fundamentals</span>
+      <span style="font-size: 12px;">Being competent in Linux</span>
     </td>
     <td align="center">
       <img src="https://assets.tryhackme.com/img/badges/streak7.svg" width="100"/><br/>
       <strong>7 Day Streak</strong><br/>
-      <span style="font-size: 12px;">Consistent 7-day learning streak</span>
+      <span style="font-size: 12px;">Achieving a 7 day hacking streak</span>
     </td>
   </tr>
   <tr>
     <td align="center">
       <img src="https://assets.tryhackme.com/img/badges/metasploit.svg" width="100"/><br/>
       <strong>Metasploitable</strong><br/>
-      <span style="font-size: 12px;">Learning exploitation with Metasploit</span>
+      <span style="font-size: 12px;">Contains the knowledge to use Metasploit</span>
     </td>
     <td align="center">
       <img src="https://assets.tryhackme.com/img/badges/blue.svg" width="100"/><br/>
       <strong>Blue</strong><br/>
-      <span style="font-size: 12px;">Exploiting EternalBlue vulnerability</span>
+      <span style="font-size: 12px;">Hacking into Windows via EternalBlue</span>
     </td>
     <td align="center">
       <img src="https://assets.tryhackme.com/img/badges/owasptop10.svg" width="100"/><br/>
       <strong>OWASP Top 10</strong><br/>
-      <span style="font-size: 12px;">Understanding top web vulns</span>
+      <span style="font-size: 12px;">Understanding every OWASP vulnerability</span>
     </td>
     <td align="center">
       <img src="https://assets.tryhackme.com/img/badges/swordapprentice.svg" width="100"/><br/>
-      <strong>SQLMAP Apprentice</strong><br/>
-      <span style="font-size: 12px;">Automating SQL injection</span>
+      <strong>Sword Apprentice</strong><br/>
+      <span style="font-size: 12px;">Completing the SQLMap room</span>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://assets.tryhackme.com/img/badges/shieldapprentice.svg" width="100"/><br/>
+      <strong>Shield Apprentice</strong><br/>
+      <span style="font-size: 12px;">Completing the FlareVM room</span>
+    </td>
   </tr>
 </table>
 
