@@ -11,6 +11,23 @@
 ---
 <div align="center">
 
+  ## 🏅 THM Certificates
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/0xfr3nk/0xfr3nk/blob/main/THM/Pre-Security.png" width="400"/><br/>
+      <strong>Pre Security</strong><br/>
+    </td>
+    <td align="center">
+      <img src="https://github.com/0xfr3nk/0xfr3nk/blob/main/THM/Cyber-Security-101.png" width="400"/><br/>
+      <strong>Cyber Security 101</strong><br/>
+    </td>
+  </tr>
+</table>
+
+---
+<div align="center">
+
 ## 🏅 THM Room Badges
 
 <table align="center">
@@ -96,10 +113,6 @@
         <span style="font-size: 12px;">Understanding impact of training on teams</span>
       </div>
     </td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
   </tr>
 </table>
 
