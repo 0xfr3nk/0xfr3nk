@@ -22,6 +22,7 @@
       <img src="https://github.com/0xfr3nk/0xfr3nk/blob/main/THM/Cyber-Security-101.png" width="400"/><br/>
       <strong>Cyber Security 101</strong><br/>
     </td>
+  </tr>
 </table>
 
 ---
