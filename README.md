@@ -57,13 +57,13 @@
       <strong>7 Day Streak</strong><br/>
       <span style="font-size: 12px;">Achieving a 7 day hacking streak</span>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <img src="https://assets.tryhackme.com/img/badges/metasploit.svg" width="100"/><br/>
       <strong>Metasploitable</strong><br/>
       <span style="font-size: 12px;">Contains the knowledge to use Metasploit</span>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="https://assets.tryhackme.com/img/badges/blue.svg" width="100"/><br/>
       <strong>Blue</strong><br/>
@@ -84,6 +84,8 @@
       <strong>Shield Apprentice</strong><br/>
       <span style="font-size: 12px;">Completing the FlareVM room</span>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <img src="https://assets.tryhackme.com/img/badges/careerready.svg" width="100"/><br/>
       <strong>Cyber Ready</strong><br/>
