@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://tryhackme.com/p/0xFr3nk">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/0xFr3nk.png?v=11" width="300" alt="TryHackMe badge"/>
+    <img src="https://tryhackme-badges.s3.amazonaws.com/0xFr3nk.png?v=13" width="300" alt="TryHackMe badge"/>
   </a>
 </p>
 
