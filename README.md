@@ -3,30 +3,41 @@
   ## 🛡️ TryHackMe Badge
   
   <a href="https://tryhackme.com/p/0xFr3nk">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/0xFr3nk.png?v=11" alt="TryHackMe Badge di 0xFr3nk" style="border: 0;" />
+    <img src="https://tryhackme-badges.s3.amazonaws.com/0xFr3nk.png?v=12" alt="TryHackMe Badge di 0xFr3nk" style="border: 0;" />
   </a>
 </div>
 
-
 ---
+
 <div align="center">
 
   ## 🏅 THM Certificates
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github.com/0xfr3nk/0xfr3nk/blob/main/THM/Pre-Security.png" width="400"/><br/>
-      <strong>Pre Security</strong><br/>
-    </td>
-    <td align="center">
-      <img src="https://github.com/0xfr3nk/0xfr3nk/blob/main/THM/Cyber-Security-101.png" width="400"/><br/>
-      <strong>Cyber Security 101</strong><br/>
-    </td>
-  </tr>
-</table>
+  <table align="center">
+    <tr>
+      <td align="center">
+        <img src="https://github.com/0xfr3nk/0xfr3nk/blob/main/THM/Pre-Security.png" width="400"/><br/>
+        <strong>Pre Security</strong><br/>
+      </td>
+      <td align="center">
+        <img src="https://github.com/0xfr3nk/0xfr3nk/blob/main/THM/Cyber-Security-101.png" width="400"/><br/>
+        <strong>Cyber Security 101</strong><br/>
+      </td>
+    </tr>
+  </table>
+
+  ---
+
+  ## 🏆 Ine Security Certificates
+  <table align="center">
+    <tr>
+      <td align="center">
+        <img src="https://github.com/0xfr3nk/0xfr3nk/blob/main/Ine%20Security/eJPTv2.png" width="400"/><br/>
+        <strong>eLearnSecurity Junior Penetration Tester (eJPTv2)</strong><br/>
+      </td>
+    </tr>
+  </table>
 
 ---
-<div align="center">
 
 ## 🏅 THM Room Badges
 
