@@ -40,6 +40,48 @@
 
 ---
 
+## 📚 Course Completions
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/0xfr3nk/0xfr3nk/blob/main/Epicode/Epicode%20-%20Cybersecurity%20Analyst.png" width="280"/><br/>
+      <strong>Cybersecurity Analyst</strong><br/>
+      Epicode
+    </td>
+    <td align="center">
+      <img src="https://github.com/0xfr3nk/0xfr3nk/blob/main/HackNow/Corso%20Linux.png" width="280"/><br/>
+      <strong>Corso Linux</strong><br/>
+      HackNow
+    </td>
+    <td align="center">
+      <img src="https://github.com/0xfr3nk/0xfr3nk/blob/main/HackNow/Personalizzazione%20Linux.png" width="280"/><br/>
+      <strong>Personalizzazione Linux</strong><br/>
+      HackNow
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/0xfr3nk/0xfr3nk/blob/main/HackNow/Personalizzazione%20ArchLinux.png" width="280"/><br/>
+      <strong>Personalizzazione ArchLinux</strong><br/>
+      HackNow
+    </td>
+    <td align="center">
+      <img src="https://github.com/0xfr3nk/0xfr3nk/blob/main/HackNow/Intro%20Python%20Offensive.png" width="280"/><br/>
+      <strong>Intro Python Offensive</strong><br/>
+      HackNow
+    </td>
+    <td align="center">
+      <img src="https://github.com/0xfr3nk/0xfr3nk/blob/main/HackNow/Hacking%20Base.png" width="280"/><br/>
+      <strong>Hacking Base</strong><br/>
+      HackNow
+    </td>
+  </tr>
+</table>
+
+
+---
+
 ## 🎖️ TryHackMe Room Badges
 
 <table align="center">
