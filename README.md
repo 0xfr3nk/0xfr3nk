@@ -21,16 +21,6 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github.com/0xfr3nk/0xfr3nk/blob/main/THM/Pre-Security.png" width="350"/><br/>
-      <strong>Pre-Security</strong><br/>
-      TryHackMe
-    </td>
-    <td align="center">
-      <img src="https://github.com/0xfr3nk/0xfr3nk/blob/main/THM/Cyber-Security-101.png" width="350"/><br/>
-      <strong>Cyber Security 101</strong><br/>
-      TryHackMe
-    </td>
-    <td align="center">
       <img src="https://github.com/0xfr3nk/0xfr3nk/blob/main/Ine%20Security/eJPTv2.png" width="350"/><br/>
       <strong>eJPTv2 - Junior Penetration Tester</strong><br/>
       Ine Security
@@ -39,117 +29,15 @@
 </table>
 
 ---
-
 ## 📚 Course Completions
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github.com/0xfr3nk/0xfr3nk/blob/main/Epicode/Epicode%20-%20Cybersecurity%20Analyst.png" width="280"/><br/>
-      <strong>Cybersecurity Analyst</strong><br/>
-      Epicode
-    </td>
-    <td align="center">
-      <img src="https://github.com/0xfr3nk/0xfr3nk/blob/main/HackNow/Corso%20Linux.png" width="280"/><br/>
-      <strong>Corso Linux</strong><br/>
-      HackNow
-    </td>
-    <td align="center">
-      <img src="https://github.com/0xfr3nk/0xfr3nk/blob/main/HackNow/Personalizzazione%20Linux.png" width="280"/><br/>
-      <strong>Personalizzazione Linux</strong><br/>
-      HackNow
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/0xfr3nk/0xfr3nk/blob/main/HackNow/Personalizzazione%20ArchLinux.png" width="280"/><br/>
-      <strong>Personalizzazione ArchLinux</strong><br/>
-      HackNow
-    </td>
-    <td align="center">
-      <img src="https://github.com/0xfr3nk/0xfr3nk/blob/main/HackNow/Intro%20Python%20Offensive.png" width="280"/><br/>
-      <strong>Intro Python Offensive</strong><br/>
-      HackNow
-    </td>
-    <td align="center">
-      <img src="https://github.com/0xfr3nk/0xfr3nk/blob/main/HackNow/Hacking%20Base.png" width="280"/><br/>
-      <strong>Hacking Base</strong><br/>
-      HackNow
-    </td>
-  </tr>
-</table>
-
+- 🔓 **Hacking Base** — HackNow [👉 Certificate](https://github.com/0xfr3nk/0xfr3nk/blob/main/HackNow/Hacking%20Base.png)  
+- 🛡️ **Cyber Security 101** — TryHackMe [👉 Certificate](https://github.com/0xfr3nk/0xfr3nk/blob/main/THM/Cyber-Security-101.png)  
+- 🧩 **Pre-Security** — TryHackMe [👉 Certificate](https://github.com/0xfr3nk/0xfr3nk/blob/main/THM/Pre-Security.png)  
+- 💻 **Cybersecurity Analyst** — Epicode [👉 Certificate](https://github.com/0xfr3nk/0xfr3nk/blob/main/Epicode/Epicode%20-%20Cybersecurity%20Analyst.png)  
+- 🐍 **Intro Python Offensive** — HackNow [👉 Certificate](https://github.com/0xfr3nk/0xfr3nk/blob/main/HackNow/Intro%20Python%20Offensive.png)  
+- 🏴‍☠️ **Personalizzazione ArchLinux** — HackNow [👉 Certificate](https://github.com/0xfr3nk/0xfr3nk/blob/main/HackNow/Personalizzazione%20ArchLinux.png)  
+- ⚙️ **Personalizzazione Linux** — HackNow [👉 Certificate](https://github.com/0xfr3nk/0xfr3nk/blob/main/HackNow/Personalizzazione%20Linux.png)  
+- 🐧 **Corso Linux** — HackNow [👉 Certificate](https://github.com/0xfr3nk/0xfr3nk/blob/main/HackNow/Corso%20Linux.png)  
 
 ---
-
-## 🎖️ TryHackMe Room Badges
-
-<table align="center">
-  <tr>
-    <td align="center" width="240">
-      <img src="https://assets.tryhackme.com/img/badges/networkfundamentals.svg" width="110" alt="Networking Nerd"/><br/>
-      <strong>Networking Nerd</strong><br/>
-      <span style="font-size: 12px;">Network Fundamentals</span>
-    </td>
-    <td align="center" width="240">
-      <img src="https://assets.tryhackme.com/img/badges/webbed.svg" width="110" alt="Webbed"/><br/>
-      <strong>Webbed</strong><br/>
-      <span style="font-size: 12px;">Web Basics</span>
-    </td>
-    <td align="center" width="240">
-      <img src="https://assets.tryhackme.com/img/badges/howthewebworks.svg" width="110" alt="World Wide Web"/><br/>
-      <strong>World Wide Web</strong><br/>
-      <span style="font-size: 12px;">How the Web Works</span>
-    </td>
-    <td align="center" width="240">
-      <img src="https://assets.tryhackme.com/img/badges/linux.svg" width="110" alt="cat linux.txt"/><br/>
-      <strong>cat linux.txt</strong><br/>
-      <span style="font-size: 12px;">Linux Basics</span>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="240">
-      <img src="https://assets.tryhackme.com/img/badges/streak7.svg" width="110" alt="7 Day Streak"/><br/>
-      <strong>7 Day Streak</strong><br/>
-      <span style="font-size: 12px;">Hacking Streak</span>
-    </td>
-    <td align="center" width="240">
-      <img src="https://assets.tryhackme.com/img/badges/metasploit.svg" width="110" alt="Metasploitable"/><br/>
-      <strong>Metasploitable</strong><br/>
-      <span style="font-size: 12px;">Metasploit Basics</span>
-    </td>
-    <td align="center" width="240">
-      <img src="https://assets.tryhackme.com/img/badges/blue.svg" width="110" alt="Blue"/><br/>
-      <strong>Blue</strong><br/>
-      <span style="font-size: 12px;">EternalBlue</span>
-    </td>
-    <td align="center" width="240">
-      <img src="https://assets.tryhackme.com/img/badges/owasptop10.svg" width="110" alt="OWASP Top 10"/><br/>
-      <strong>OWASP Top 10</strong><br/>
-      <span style="font-size: 12px;">Web Vulns</span>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="240">
-      <img src="https://assets.tryhackme.com/img/badges/swordapprentice.svg" width="110" alt="Sword Apprentice"/><br/>
-      <strong>Sword Apprentice</strong><br/>
-      <span style="font-size: 12px;">SQLMap</span>
-    </td>
-    <td align="center" width="240">
-      <img src="https://assets.tryhackme.com/img/badges/shieldapprentice.svg" width="110" alt="Shield Apprentice"/><br/>
-      <strong>Shield Apprentice</strong><br/>
-      <span style="font-size: 12px;">FlareVM</span>
-    </td>
-    <td align="center" width="240">
-      <img src="https://assets.tryhackme.com/img/badges/careerready.svg" width="110" alt="Cyber Ready"/><br/>
-      <strong>Cyber Ready</strong><br/>
-      <span style="font-size: 12px;">Team Training</span>
-    </td>
-    <td align="center" width="240">
-      <!-- slot libero per futuri badge -->
-      <span style="opacity:.6;font-size:12px;">More coming…</span>
-    </td>
-  </tr>
-</table>
