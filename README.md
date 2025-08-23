@@ -31,6 +31,7 @@
 ---
 ## 📚 Course Completions
 
+- 🧑‍💻 **Jr Penetration Tester** — TryHackMe [👉 Certificate](https://github.com/0xfr3nk/0xfr3nk/blob/main/THM/JrPenetrationTester.png)  
 - 🔓 **Hacking Base** — HackNow [👉 Certificate](https://github.com/0xfr3nk/0xfr3nk/blob/main/HackNow/Hacking%20Base.png)  
 - 🛡️ **Cyber Security 101** — TryHackMe [👉 Certificate](https://github.com/0xfr3nk/0xfr3nk/blob/main/THM/Cyber-Security-101.png)  
 - 🧩 **Pre-Security** — TryHackMe [👉 Certificate](https://github.com/0xfr3nk/0xfr3nk/blob/main/THM/Pre-Security.png)  
