@@ -36,9 +36,9 @@
 - 🛡️ **Cyber Security 101** — TryHackMe [👉 Certificate](https://github.com/0xfr3nk/0xfr3nk/blob/main/THM/Cyber-Security-101.png)  
 - 🧩 **Pre-Security** — TryHackMe [👉 Certificate](https://github.com/0xfr3nk/0xfr3nk/blob/main/THM/Pre-Security.png)  
 - 💻 **Cybersecurity Analyst** — Epicode [👉 Certificate](https://github.com/0xfr3nk/0xfr3nk/blob/main/Epicode/Epicode%20-%20Cybersecurity%20Analyst.png)  
-- 🐍 **Intro Python Offensive** — HackNow [👉 Certificate](https://github.com/0xfr3nk/0xfr3nk/blob/main/HackNow/Intro%20Python%20Offensive.png)  
-- 🏴‍☠️ **Personalizzazione ArchLinux** — HackNow [👉 Certificate](https://github.com/0xfr3nk/0xfr3nk/blob/main/HackNow/Personalizzazione%20ArchLinux.png)  
-- ⚙️ **Personalizzazione Linux** — HackNow [👉 Certificate](https://github.com/0xfr3nk/0xfr3nk/blob/main/HackNow/Personalizzazione%20Linux.png)  
-- 🐧 **Corso Linux** — HackNow [👉 Certificate](https://github.com/0xfr3nk/0xfr3nk/blob/main/HackNow/Corso%20Linux.png)  
+- 🐍 **Introduction to Offensive Python** — HackNow [👉 Certificate](https://github.com/0xfr3nk/0xfr3nk/blob/main/HackNow/Intro%20Python%20Offensive.png)  
+- 🏴‍☠️ **ArchLinux Customization** — HackNow [👉 Certificate](https://github.com/0xfr3nk/0xfr3nk/blob/main/HackNow/Personalizzazione%20ArchLinux.png)  
+- ⚙️ **Linux Customization** — HackNow [👉 Certificate](https://github.com/0xfr3nk/0xfr3nk/blob/main/HackNow/Personalizzazione%20Linux.png)  
+- 🐧 **Linux Course** — HackNow [👉 Certificate](https://github.com/0xfr3nk/0xfr3nk/blob/main/HackNow/Corso%20Linux.png)  
 
 ---
