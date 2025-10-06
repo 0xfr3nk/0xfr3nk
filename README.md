@@ -42,3 +42,35 @@
 - 🐧 **Linux Course** — HackNow [👉 Certificate](https://github.com/0xfr3nk/0xfr3nk/blob/main/HackNow/Corso%20Linux.png)  
 
 ---
+
+## 🖥️ Macchine Risolte
+
+<table align="center" width="100%">
+  <tr>
+    <th width="40%">Easy</th>
+    <th width="30%">Medium</th>
+  </tr>
+  <tr>
+    <td align="left" valign="top" width="50%">
+      <ul>
+        <li><a href="https://tryhackme.com/room/corridor">Corridor</a></li>
+        <li><a href="https://tryhackme.com/room/intermediatenmap">Intermediate Nmap</a></li>
+        <li><a href="https://tryhackme.com/room/vulnerabilitycapstone">Vulnerability Capstone</a></li>
+        <li><a href="https://tryhackme.com/room/neighbour">Neighbour</a></li>
+        <li><a href="https://tryhackme.com/room/picklerick">Pickle Rick</a></li>
+        <li><a href="https://tryhackme.com/room/h4cked">h4cked</a></li>
+        <li><a href="https://tryhackme.com/room/lofi">Lo-Fi</a></li>
+        <li><a href="https://tryhackme.com/room/brooklynninenine">Brooklyn Nine Nine</a></li>
+        <li><a href="https://tryhackme.com/room/smaggrotto">Smag Grotto</a></li>
+      </ul>
+    </td>
+    <td align="left" valign="top" width="50%">
+      <ul>
+        <li><a href="https://tryhackme.com/room/netsecchallenge">Net Sec Challenge</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+
+---
